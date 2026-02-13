@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="currentTranslationLanguage" value="Russian" />
+    <option name="structureTranslation">
+      <map>
+        <entry key="Russian">
+          <value>
+            <map>
+              <entry key="1044169934" value="Шаг 3  " />
+              <entry key="1112857690" value="Типы данных  " />
+              <entry key="1178211071" value="День 6  " />
+              <entry key="1179865809" value="Именование переменных  " />
+              <entry key="1199998776" value="Шаг 5  " />
+              <entry key="1206289300" value="Шаг 2  " />
+              <entry key="1235620065" value="День 3  " />
+              <entry key="1277708657" value="Область видимости блока  " />
+              <entry key="1298813328" value="Исправь ошибки  " />
+              <entry key="1304427684" value="Где остальные дни" />
+              <entry key="1307993871" value="Используй отладчик  " />
+              <entry key="1322657598" value="День 11  " />
+              <entry key="1336938375" value="Множественные возвращаемые значения  " />
+              <entry key="1407599981" value="День 12  " />
+              <entry key="1500767241" value="День 7  " />
+              <entry key="1517941988" value="Циклы For с диапазоном  " />
+              <entry key="1521411200" value="Проект генератора названия группы  " />
+              <entry key="1566856357" value="Используй Print  " />
+              <entry key="1592611158" value="Остаток от деления  " />
+              <entry key="1606163007" value="Проект калькулятора чаевых  " />
+              <entry key="1639961942" value="Вложенные и Elif  " />
+              <entry key="1719245063" value="Проект &quot;Выше или ниже&quot;  " />
+              <entry key="1720631818" value="Опиши проблему  " />
+              <entry key="1730117572" value="Манипуляции со строками  " />
+              <entry key="1744300585" value="Проект кофемашины  " />
+              <entry key="17794001" value="Рулетка банкира  " />
+              <entry key="17794002" value="IndexError  " />
+              <entry key="17794003" value="Списки  " />
+              <entry key="17794004" value="Модуль Random  " />
+              <entry key="17794005" value="Камень ножницы бумага  " />
+              <entry key="17794006" value="Функции  " />
+              <entry key="17794007" value="Циклы for  " />
+              <entry key="1783099172" value="День 1  " />
+              <entry key="1791388063" value="Математические операции  " />
+              <entry key="1820122666" value="Проект генератора паролей  " />
+              <entry key="1825435284" value="Функции с входными данными  " />
+              <entry key="1835831684" value="День 9  " />
+              <entry key="1893623829" value="День 16-100  " />
+              <entry key="1902731480" value="Имена пространств и область видимости  " />
+              <entry key="1923669322" value="Играй в компьютер  " />
+              <entry key="195716625" value="Позиционные против ключевых аргументов  " />
+              <entry key="1977144334" value="Проект слепого аукциона  " />
+              <entry key="199568011" value="Проект Остров сокровищ  " />
+              <entry key="2019991323" value="Caesar Cipher 1  " />
+              <entry key="2038477174" value="День 14  " />
+              <entry key="2083621760" value="День 10  " />
+              <entry key="2088487643" value="Dcostrings  " />
+              <entry key="2107013760" value="Глобальные переменные  " />
+              <entry key="216408927" value="Проект калькулятора  " />
+              <entry key="283125148" value="Вводы  " />
+              <entry key="284492507" value="Если иначе  " />
+              <entry key="342841397" value="Логические операторы  " />
+              <entry key="367561985" value="Самый высокий результат  " />
+              <entry key="373790071" value="День 5  " />
+              <entry key="392892348" value="Шаг 1  " />
+              <entry key="417849496" value="Множественные If  " />
+              <entry key="424097809" value="День 15  " />
+              <entry key="476425553" value="Проект Блэкджека  " />
+              <entry key="481990002" value="Глобальные константы  " />
+              <entry key="526466484" value="Ошибка типа, проверка и преобразование  " />
+              <entry key="540859013" value="Python Пицца  " />
+              <entry key="566117749" value="Словари  " />
+              <entry key="625529494" value="Печать  " />
+              <entry key="627596553" value="Шаг 4  " />
+              <entry key="636283032" value="Переменные  " />
+              <entry key="644805369" value="День 2  " />
+              <entry key="653216157" value="Проект угадывания чисел  " />
+              <entry key="671285232" value="День 13  " />
+              <entry key="740423759" value="День 4  " />
+              <entry key="785894060" value="Воспроизведи ошибку  " />
+              <entry key="796392606" value="Функции с выводами  " />
+              <entry key="881809023" value="День 8  " />
+              <entry key="900654030" value="Шифр Цезаря 3  " />
+              <entry key="915669702" value="Caesar Cipher 2  " />
+              <entry key="925561270" value="Вложенные списки и словари  " />
+              <entry key="997111556" value="Манипуляции с числами  " />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Russian" value="538" />
+      </map>
+    </option>
+  </component>
+</project>
