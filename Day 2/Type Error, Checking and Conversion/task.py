@@ -1,4 +1,3 @@
-print(type(12345))
-print(type("123"))
-print(type(3.14))
-print(type(True))
+ima = input("Enter your name")
+colvo = len(ima)
+print("Number of letters in your name: " + str(colvo))
