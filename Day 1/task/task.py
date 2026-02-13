@@ -1,6 +1,4 @@
-# input("What is your name?")
-# name = "Arthur"
-# print(len(name))
-user = input("What is your name?")
-lenght= len(user)
-print(lenght)
+print("Idi dididy nahui")
+city = input("Kakoy city te nado? \n")
+pet = input("Kakoy pes te nado \n")
+print("Your band name could be " + city + " " + pet)
